@@ -1,6 +1,6 @@
 ### Reference TSA Implemention in Hardware
 
-<img src="./reference_design.png">
+<img src="figs/reference_design.png">
 
 In the figure above, we illustrate each component from left to right:  
 - The leftmost part is the _adder_, which takes the shifted membrane potential and the current input as inputs.  
