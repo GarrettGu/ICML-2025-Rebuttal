@@ -1,4 +1,4 @@
-### 设计说明
+### Reference TSA Implemention in Hardware
 
 <img src="./reference_design.png">
 
